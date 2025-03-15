@@ -139,7 +139,7 @@ python src/models/predict.py --wine-type red --task regression --input-file new_
 
 ## 🌟 Interactive Web Application
 
-![Wine Quality Predictor Interface](<Web_App.png>)
+![Wine Quality Predictor Interface](<WebApp.png>)
 
 The project includes a Streamlit web application that allows users to:
 - Input custom wine chemical properties
