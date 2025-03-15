@@ -4,19 +4,19 @@ A machine learning project to predict wine quality based on physicochemical prop
 
 ## Project Overview
 
-This project aims to predict the quality of wine (red and white) based on various physicochemical properties. It demonstrates the end-to-end machine learning workflow, from data exploration to model deployment, using the Portuguese "Vinho Verde" wine dataset.
+The objective of this project is to make a prediction about the quality of wine (red and white) based on different physicochemical properties. This one showcases the complete end-to-end machine learning workflow from data exploration to model deployment, with the Portuguese Vinho Verde wine dataset.
 
 ### Key Features
 
-- **Comprehensive Data Analysis**: Detailed exploration of wine chemical properties and their relationship to quality
-- **Feature Engineering**: Creation of meaningful derived features to improve model performance
+- **All Data Analysis**: Analysis of wine chemicals and their properties and relation to quality
+- **Feature Engineering**: Development of new features that lead to greater accuracy
 - **Multiple Modeling Approaches**:
-  - Regression models to predict the exact quality score (1-10)
-  - Binary classification models to categorize wines as good or bad
-  - Multi-class classification models to categorize wines as bad, average, or good
-- **Model Optimization**: Hyperparameter tuning to maximize prediction accuracy
-- **Model Comparison**: Evaluation of various algorithms to find the best performer
-- **Separate Models**: Dedicated models for red wine, white wine, and combined prediction
+  - Models Regressing Against Exact Quality Score (1-10)
+  - Binary classification functions to classify wines as good or bad
+  - Multi-class classification models to classify wines as bad, average, or good
+- **Model Optimization**: Utilizing HyperParameter tuning to try and improve prediction accuracy
+- **Model Comparison**: Testing different algorithms to see which one comes out on top
+- **Separate Models**: One per red, one per white, one combined prediction
 
 ## Directory Structure
 
