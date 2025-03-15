@@ -49,6 +49,8 @@ The project achieved impressive prediction results:
 ### Key Discoveries
 
 - **Alcohol content** consistently emerged as the strongest predictor of wine quality across all models
+![Feature Importance Analysis](reports/figures/combined_wine_gradient_boosting_feature_importance.png)
+*Feature importance analysis showing body score and volatile acidity as top predictors of wine quality*
 - **Critical thresholds** were identified where quality dramatically improves:
   - Red wine: Alcohol > 12%, Volatile acidity < 0.7 g/L
   - White wine: Alcohol > 11.5%, Residual sugar balanced with acidity
