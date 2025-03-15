@@ -19,3 +19,6 @@ pathlib==1.0.1
 
 # Progress Monitoring (Optional)
 tqdm==4.65.0
+
+# Web Interface
+streamlit==1.27.0

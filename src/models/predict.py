@@ -13,7 +13,7 @@ Usage:
     predictor = WineQualityPredictor(wine_type='red', task='binary')
     prediction = predictor.predict(features)
 
-Author: Your Name
+Author: Vatsal Mehta
 Date: March 2025
 """
 
