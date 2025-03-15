@@ -43,6 +43,9 @@ The project achieved impressive prediction results:
   - Best classification accuracy: Random Forest (~91%)
   - Key drivers: Alcohol content, density, residual sugar
 
+![Model Performance Comparison](reports/figures/red_wine_regression_comparison.png)
+*Comparison of different model performances for red wine quality prediction*
+
 ### Key Discoveries
 
 - **Alcohol content** consistently emerged as the strongest predictor of wine quality across all models
