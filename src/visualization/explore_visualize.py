@@ -8,7 +8,7 @@ distributions of different features.
 Usage:
     python src/visualization/explore_visualize.py
 
-Author: Your Name
+Author: Vatsal Mehta
 Date: March 2025
 """
 
