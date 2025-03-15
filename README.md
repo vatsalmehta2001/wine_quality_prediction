@@ -33,18 +33,19 @@ This project builds machine learning models to predict wine quality scores based
 
 The project achieved impressive prediction results:
 
+![Model Performance Comparison](reports/figures/red_wine_regression_comparison.png)
+*Comparison of different model performances for red wine quality prediction*
 - **Red Wine**:
   - Best regression model: Random Forest (RMSE: ~0.56)
   - Best classification accuracy: Gradient Boosting (~90%)
   - Key drivers: Alcohol content, volatile acidity, sulphates
 
+![Model Performance Comparison](reports/figures/white_wine_regression_comparison.png)
+*Comparison of different model performances for white wine quality prediction*
 - **White Wine**:
   - Best regression model: Random Forest (RMSE: ~0.51)
   - Best classification accuracy: Random Forest (~91%)
   - Key drivers: Alcohol content, density, residual sugar
-
-![Model Performance Comparison](reports/figures/red_wine_regression_comparison.png)
-*Comparison of different model performances for red wine quality prediction*
 
 ### Key Discoveries
 
