@@ -1,6 +1,6 @@
 # Wine Quality Prediction
 
-A comprehensive machine learning project that predicts wine quality based on physicochemical properties, demonstrating end-to-end ML workflow from data analysis to interactive visualization.
+A machine learning project that predicts wine quality based on physicochemical properties, demonstrating end-to-end ML workflow from data analysis to interactive visualization.
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange.svg)](https://scikit-learn.org/)
